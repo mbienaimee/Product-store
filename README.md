@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # product_catalogue
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Product-store
+>>>>>>> a420d99c36e1950812b815f80ba369c3082d2fb1
